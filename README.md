@@ -38,7 +38,7 @@ src/main/java/com/example/demo
 Clona il repository:
 
 ```bash
-git clone https://github.com/<tuo-utente>/<tuo-repo>.git
+git clone https://github.com/secur-hub/spring-api-demo.git
 cd tuo-repo
 ```
 
